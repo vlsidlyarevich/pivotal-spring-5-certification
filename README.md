@@ -3,6 +3,7 @@ My preparation for Spring Framework 5 certification from Pivotal.
 
 ### Knowledge sources
 * [Spring Reference](https://docs.spring.io/spring/docs/5.2.0.RELEASE/spring-framework-reference/) - 5.2.0.RELEASE
+* [Core Spring 5 Certification in Detail](https://leanpub.com/corespring5certificationindetail)
 
 ### Environment prerequisites:
 ``` bash 
