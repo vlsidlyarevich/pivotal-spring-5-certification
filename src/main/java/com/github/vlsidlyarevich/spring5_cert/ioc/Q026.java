@@ -1,11 +1,10 @@
 package com.github.vlsidlyarevich.spring5_cert.ioc;
 
 /**
- * <b>Can you use @Component together with {@code @Profile?}</b>
+ * <b>What is {@code @Value} used for?</b>
  * <br><br>
- * Yes.
  *
  * @author vlsidlyarevich
  */
-public class Q023 {
+public class Q026 {
 }

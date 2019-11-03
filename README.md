@@ -1,4 +1,5 @@
-# pivotal-spring-5-certification
+# pivotal-spring-5-certification - ARCHIVED
+## Please, use [Core Spring 5 Certification in Detail](https://leanpub.com/corespring5certificationindetail) instead, it covers all the themes.
 My preparation for Spring Framework 5 certification from Pivotal.
 
 ### Knowledge sources
